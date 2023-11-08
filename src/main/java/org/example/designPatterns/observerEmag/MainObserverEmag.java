@@ -1,5 +1,5 @@
 package org.example.designPatterns.observerEmag;
-
+//Observer: modalitate de a notifica o serie de clase
 public class MainObserverEmag {
 
     public static void main(String[] args) {

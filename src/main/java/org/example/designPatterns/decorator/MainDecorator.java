@@ -1,5 +1,5 @@
 package org.example.designPatterns.decorator;
-
+//Decorator: adaugaă responsabilități unui obiect în mod dinamic
 public class MainDecorator {
     public static void main(String[] args) {
 
