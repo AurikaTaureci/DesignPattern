@@ -1,4 +1,4 @@
-package org.example.designPatterns.observerEmag;
+package org.example.designPatterns.observer;
 
 
 public interface Subject {

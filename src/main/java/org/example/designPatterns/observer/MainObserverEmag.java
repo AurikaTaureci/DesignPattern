@@ -1,4 +1,4 @@
-package org.example.designPatterns.observerEmag;
+package org.example.designPatterns.observer;
 //Observer: modalitate de a notifica o serie de clase
 public class MainObserverEmag {
 
